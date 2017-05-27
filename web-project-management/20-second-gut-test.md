@@ -1,5 +1,9 @@
 # 20 Second Gut Test
 
+## Objectifs
+
+Clarifier les préférences esthétiques du design
+
 ## Etapes
 
 1. In advance of the meeting, assemble 20 or so screen captures of web pages. Try to capture a range of approaches and styles.
