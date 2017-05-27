@@ -1,14 +1,12 @@
-# Définition du projet
+# Business Assumptions Exercise
 
-## Se mettre d'accord sur une idée de business
-
-### Business Assumptions Exercise
+## Objectifs
 
 Passer d'une simple idée à une projection plus concrète, vérifier qu'on a déjà considérer tous les aspects, et mettre en lumière les différences de perception entre les associés.
 
 Se rapproche du [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas).
 
-Exemple de questionnaire : [https://jesseddy.typeform.com/to/yolAmg](https://jesseddy.typeform.com/to/yolAmg)
+## Déroulement
 
 Les questions :
 
@@ -36,7 +34,15 @@ Les questions :
 
 * **CRITICAL RISK ASSUMPTIONS - **Quels présupposés / suppositions soutiennent mon business, qui, si elle s'avèrent fausses, pourraient causer son échec ? \(en nommer 5 max, de façon claire et concise \(points\), éviter paragraphes et phrases
 
-Source : [https://blog.marvelapp.com/ux-facilitation-methods](https://blog.marvelapp.com/ux-facilitation-methods)
+## Ressources
+
+### Exemples
+
+* Exemple de questionnaire : [https://jesseddy.typeform.com/to/yolAmg](https://jesseddy.typeform.com/to/yolAmg)
+
+### Sources
+
+* [https://blog.marvelapp.com/ux-facilitation-methods](https://blog.marvelapp.com/ux-facilitation-methods)
 
 ### 
 
