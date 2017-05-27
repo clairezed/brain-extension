@@ -1,5 +1,12 @@
 # Prototyping Exercise / Design studio
 
+## Objectifs
+
+* générer des idées venues de points de vue variés dans une organisations
+* inclure le maximum de personnes dans un projet
+* clarifier les priorités de design \(variante 3\)
+* créer une culture web et UI commune
+
 ## Déroulement
 
 ### Variante 1 - objectif circonscrit, sans regroupement

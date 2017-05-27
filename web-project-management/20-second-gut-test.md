@@ -4,7 +4,7 @@
 
 Clarifier les préférences esthétiques du design
 
-## Etapes
+## Déroulement
 
 1. In advance of the meeting, assemble 20 or so screen captures of web pages. Try to capture a range of approaches and styles.
 2. Put them in a random \(or strategic\) sequence in a Keynote or PowerPoint presentation. Place a letter of the alphabet on each slide, so that each web page has a different letter.
