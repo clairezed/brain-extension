@@ -7,4 +7,7 @@
 * [Gestion projet web](web-project-management/README.md)
   * [20 seconds gut test](web-project-management/20-second-gut-test.md)
   * [Design Studio](web-project-management/design-studio.md)
+* Reader's digests
+  * [Reinventing Organizations](reinventing-organizations.md)
+  * [Une heure par semaine pour animer une grande communauté](une-heure-par-semaine-pour-animer-une-grande-communaute.md)
 
