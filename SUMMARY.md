@@ -10,4 +10,5 @@
 * [Reader's digests](readers-digest/README.md)
   * [Reinventing Organizations](readers-digest/reinventing-organizations.md)
   * [Une heure par semaine pour animer une grande communauté](readers-digest/une-heure-par-semaine-pour-animer-une-grande-communaute.md)
+* [Bib / Webliographie](bib-webliographie.md)
 
