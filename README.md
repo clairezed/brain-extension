@@ -6,12 +6,14 @@ A termes, l'idée pour moi est de personnaliser une boîte à outils personnelle
 
 ## Micro Sommaire
 
-* [Travail collaboratif](collaborative-work/README.md)
-* [Gestion projet web](web-project-management/README.md)
-* [Reader's digests](readers-digest/README.md)
-
+* [Travail collaboratif](/collaborative-work/README.md)
+* [Gestion projet web](/web-project-management/README.md)
+* [Reader's digests](/readers-digest/README.md)
 
 ## Répertoires de ressources
 
 * [Atlassian Team Playbooks](https://www.atlassian.com/team-playbook/plays)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
+
+
+
