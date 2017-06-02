@@ -1,6 +1,6 @@
 ## Bib / Webliographie
 
-&lt;!-- toc --&gt;
+<!-- toc -->
 
 ### Projets web
 
@@ -58,6 +58,3 @@ A framework to help you build meaningful communities.
   * aider à la décision,
   * planifier le projet,
   * animer une réunion
-
-
-
