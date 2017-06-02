@@ -1,3 +1,4 @@
 {
-    "plugins" : [ "simple-page-toc" ]
+    "plugins" : [ "simple-page-toc", "page-toc-button" ]
+    
 }
