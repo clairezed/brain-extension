@@ -6,7 +6,7 @@ Jean-Michel Cornu
 
 Source : [Une heure par semaine pour animer une grande communauté](https://www.gitbook.com/book/clairezed/brain-extension/edit#)
 
-## Notes de lecture
+## Prise de notes
 
 ### Postulats de départ {#postulats-de-d-part}
 
@@ -254,7 +254,7 @@ Etapes d'une rencontre :
 
 ### Mettre en place ou réorganiser une communauté pas à pas {#mettre-en-place-ou-r-organiser-une-communaut-pas-pas}
 
-### Faire vivre la communauté  {#faire-vivre-la-communaut-}
+### Faire vivre la communauté {#faire-vivre-la-communaut-}
 
 
 
