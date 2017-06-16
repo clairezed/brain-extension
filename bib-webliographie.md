@@ -58,3 +58,6 @@ A framework to help you build meaningful communities.
   * aider à la décision,
   * planifier le projet,
   * animer une réunion
+
+
+- [Game storming](http://gamestorming.com/)
