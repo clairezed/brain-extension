@@ -61,3 +61,4 @@ A framework to help you build meaningful communities.
 
 
 - [Game storming](http://gamestorming.com/)
+- [Plateform design toolkit](http://platformdesigntoolkit.com/toolkit/)
