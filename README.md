@@ -9,7 +9,7 @@ A termes, l'idée pour moi est de personnaliser une boîte à outils personnelle
 * [Travail collaboratif](/collaborative-work/README.md)
 * [Gestion projet web](/web-project-management/README.md)
 * [Reader's digests](/readers-digest/README.md)
-* Bib / Webliographie
+* [Bib / Webliographie](/test.md)
 
 
 
