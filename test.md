@@ -1,13 +1,11 @@
 ## Bib/Webliographie
 
-
-
-### Projetsweb
+### Projets web
 
 * [Atlassian Team Playbooks](https://www.atlassian.com/team-playbook/plays)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
 
-### Designdeservice
+### Design de service
 
 #### [Comment faire](http://comment-faire.modernisation.gouv.fr/)
 
@@ -19,7 +17,7 @@ PortaildeméthodesdudesigndeserviceproposéparleSGMAP.
 * Expérimenter une solution : tester et faire évoluer
 * Déployer son projet : mettre en oeuvre et faire vivre
 
-### Construireunecommunauté
+### Construire une communauté
 
 #### [Community Canvas](https://community-canvas.org/)
 
@@ -48,7 +46,7 @@ Aframeworktohelpyoubuildmeaningfulcommunities.
      Platforms : What channels does the community use to communicate and gather?
   * Data Management : How does the community manage the data of its members?
 
-### Impulserlacoopération
+### Impulser la coopération
 
 * [Outils - Réseaux](http://outils-reseaux.org/): travailler en réseau, usages et outils
 
@@ -62,6 +60,7 @@ Aframeworktohelpyoubuildmeaningfulcommunities.
   * animer une réunion
 
 * [Game storming](http://gamestorming.com/)
+
 * [Plateform design toolkit](http://platformdesigntoolkit.com/toolkit/)
 
 
