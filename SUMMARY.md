@@ -12,5 +12,8 @@
 * [Reader's digests](readers-digest/README.md)
   * [Reinventing Organizations](readers-digest/reinventing-organizations.md)
   * [Une heure par semaine pour animer une grande communauté](readers-digest/une-heure-par-semaine-pour-animer-une-grande-communaute.md)
+* [Obligations légales](obligations-legales.md)
+  * [CNIL](obligations-legales/cnil.md)
+  * [Règlement Général sur la Protection des Données](obligations-legales/reglement-general-sur-la-protection-des-donnees.md)
 * [ Bib / Webliographie](test.md)
 
