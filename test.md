@@ -1,5 +1,11 @@
 ## Bib/Webliographie
 
+
+
+| Titre | Définition de besoins | Co-design |  |  | Détail |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Comment faire](http://comment-faire.modernisation.gouv.fr/) |  |  |  |  | \#comment-faire |
+
 ### Projets web
 
 * [Atlassian Team Playbooks](https://www.atlassian.com/team-playbook/plays)
@@ -7,9 +13,9 @@
 
 ### Design de service
 
-#### [Comment faire](http://comment-faire.modernisation.gouv.fr/)
+#### [Comment faire](http://comment-faire.modernisation.gouv.fr/) {#comment-faire}
 
-PortaildeméthodesdudesigndeserviceproposéparleSGMAP.
+Portail de méthodes du design de service proposé par le SGMAP.
 
 * Démarrer son projet : bien définir le défi à relever
 * Comprendre ses usagers : observer et découvrir qui ils sont
