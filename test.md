@@ -1,10 +1,8 @@
 ## Bib/Webliographie
 
-
-
 | Titre | Définition de besoins | Co-design |  |  | Détail |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Comment faire](http://comment-faire.modernisation.gouv.fr/) |  |  |  |  | \#comment-faire |
+| [Comment faire](http://comment-faire.modernisation.gouv.fr/) |  |  |  |  | [\#comment-faire](#comment-faire) |
 
 ### Projets web
 
