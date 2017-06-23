@@ -2,7 +2,7 @@
 
 | Titre | Définition de besoins | Co-design |  |  | Détail |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Comment faire](http://comment-faire.modernisation.gouv.fr/) |  |  |  |  | [\#comment-faire](#comment-faire) |
+| [Comment faire](http://comment-faire.modernisation.gouv.fr/) | X |  |  |  | [\#comment-faire](#comment-faire) |
 
 ### Projets web
 
@@ -25,7 +25,7 @@ Portail de méthodes du design de service proposé par le SGMAP.
 
 #### [Community Canvas](https://community-canvas.org/)
 
-Aframeworktohelpyoubuildmeaningfulcommunities.
+A framework to help you build meaningful communities.
 
 * Identity :
   * Purpose : Why does the community exist?
