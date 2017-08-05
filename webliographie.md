@@ -1,6 +1,12 @@
-## Bib / Webliographie
+## Bib/Webliographie
 
-<!-- toc -->
+| Titre | Définition de besoins | Co-design |  |  | Détail |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Comment faire](http://comment-faire.modernisation.gouv.fr/) | X |  |  |  | [\#comment-faire](#comment-faire) |
+
+&lt;Icon id="link" /&gt;
+
+### 
 
 ### Projets web
 
@@ -9,7 +15,7 @@
 
 ### Design de service
 
-#### [Comment faire](http://comment-faire.modernisation.gouv.fr/)
+#### [Comment faire](http://comment-faire.modernisation.gouv.fr/) {#comment-faire}
 
 Portail de méthodes du design de service proposé par le SGMAP.
 
@@ -48,9 +54,9 @@ A framework to help you build meaningful communities.
 
 ### Impulser la coopération
 
-* [Outils - Réseaux](http://outils-reseaux.org) : travailler en réseau, usages et outils
+* [Outils - Réseaux](http://outils-reseaux.org/): travailler en réseau, usages et outils
 
-* [Guide méthodologique du travail en commun](http://www.iaat.org/telechargement/guide_methodo/guide_methodo_complet.pdf) :
+* [Guide méthodologique du travail en commun](http://www.iaat.org/telechargement/guide_methodo/guide_methodo_complet.pdf):
 
   * stimuler les idées,
   * analyser l'environnement,
@@ -59,6 +65,9 @@ A framework to help you build meaningful communities.
   * planifier le projet,
   * animer une réunion
 
+* [Game storming](http://gamestorming.com/)
 
-- [Game storming](http://gamestorming.com/)
-- [Plateform design toolkit](http://platformdesigntoolkit.com/toolkit/)
+* [Plateform design toolkit](http://platformdesigntoolkit.com/toolkit/)
+
+
+

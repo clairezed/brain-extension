@@ -16,4 +16,6 @@
   * [CNIL](obligations-legales/cnil.md)
   * [Règlement Général sur la Protection des Données](obligations-legales/reglement-general-sur-la-protection-des-donnees.md)
 * [ Bib / Webliographie](test.md)
+* [Ice breakers](ice-breakers.md)
+  * [Cadeau - crochet](ice-breakers/cadeau-crochet.md)
 
