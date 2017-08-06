@@ -1,10 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* [Ice breakers](ice-breakers.md)
+  * [Cadeaux et crochets](ice-breakers/cadeau-crochet.md)
 * [Travail collaboratif](collaborative-work/README.md)
-  * [Personas](collaborative-work/personas.md)
-  * [Business Assumptions Exercise](collaborative-work/business-assumptions-exercise.md)
   * [Règles de base](collaborative-work/regles-de-base.md)
+  * [Business Assumptions Exercise](collaborative-work/business-assumptions-exercise.md)
+  * [Personas](collaborative-work/personas.md)
+  * [Prise de décision](collaborative-work/prise-de-decision.md)
 * [Gestion projet web](web-project-management/README.md)
   * [20 seconds gut test](web-project-management/20-second-gut-test.md)
   * [Design Studio](web-project-management/design-studio.md)
@@ -17,6 +20,4 @@
   * [CNIL](obligations-legales/cnil.md)
   * [Règlement Général sur la Protection des Données](obligations-legales/reglement-general-sur-la-protection-des-donnees.md)
 * [ Bib / Webliographie](test.md)
-* [Ice breakers](ice-breakers.md)
-  * [Cadeau - crochet](ice-breakers/cadeau-crochet.md)
 
