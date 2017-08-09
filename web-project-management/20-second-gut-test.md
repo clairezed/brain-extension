@@ -27,7 +27,7 @@ Clarifier les préférences esthétiques du design
 
 #### Tableau de calcul des scores
 
-* [Brad Frost google sheet](/h ttps://docs.google.com/spreadsheets/d/1wOYWw4GRJ5HYfJ2U3Smq2NaLz0zkqfbV8QFkwd8_qfI/edit#gid=0)
+* [Brad Frost google sheet](https://docs.google.com/spreadsheets/d/1wOYWw4GRJ5HYfJ2U3Smq2NaLz0zkqfbV8QFkwd8_qfI/edit)
 
 ### Sources
 
