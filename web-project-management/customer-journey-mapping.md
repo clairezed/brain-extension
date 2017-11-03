@@ -1,9 +1,5 @@
 # Customer Journey mapping
 
-
-
-
-
 ## Resources
 
 ### Exemples
@@ -13,6 +9,7 @@
 ### Sources
 
 * [https://boagworld.com/usability/how-to-run-a-customer-journey-mapping-workshop/](https://www.gitbook.com/book/clairezed/brain-extension/edit#)
+* [http://www.ux-republic.com/experience-map-8-modeles-inspirants/](http://www.ux-republic.com/experience-map-8-modeles-inspirants/)
 
 
 

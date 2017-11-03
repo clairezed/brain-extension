@@ -90,5 +90,9 @@ A framework to help you build meaningful communities.
 
 * [Plateform design toolkit](http://platformdesigntoolkit.com/toolkit/)
 
+### Bibliographie
+
+* **Designerly Ways of Knowing - Nigel Cross** : sur comment fonctionne la résolution de problème pour un designer, pourquoi ça peut s'adapter à différents domaines ou différentes personnes \(liens avec Design Sprint ?\) \(http://larossa.co/cross\_1982\_designerlywaysofknowing.pdf / http://oro.open.ac.uk/39253/8/Designerly%20Ways%20of%20Knowing%20DS.pdf / http://www.uio.no/studier/emner/matnat/ifi/INF5721/h07/Coursematerial/Presentations/ToneBratteteig.pdf \)
+
 
 

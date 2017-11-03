@@ -15,10 +15,12 @@ Les Personas représentent différentes typologies de publics qu’une organisat
 
 Cf [https://blog.marvelapp.com/ux-facilitation-methods/](https://blog.marvelapp.com/ux-facilitation-methods/)
 
-### Mettre l'accent sur
+#### Mettre l'accent sur
 
 * les comportements et compétences , les habitudes, les savoirs-faires ?
 * les aspirations, les valeurs, les rêves ?
+
+### Lean Personas
 
 ## Ressources
 
@@ -26,6 +28,7 @@ Cf [https://blog.marvelapp.com/ux-facilitation-methods/](https://blog.marvelapp.
 
 * [http://fr.diytoolkit.org/tools/personas/](http://fr.diytoolkit.org/tools/personas/)
 * [https://blog.marvelapp.com/ux-facilitation-methods/](https://blog.marvelapp.com/ux-facilitation-methods/)
+* [https://www.uxpin.com/studio/blog/ux-designers-5-minute-guide-lean-personas/](https://www.uxpin.com/studio/blog/ux-designers-5-minute-guide-lean-personas/)
 
 
 
