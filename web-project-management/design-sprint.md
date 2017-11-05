@@ -4,12 +4,11 @@ Sprint de 5 jours
 
 ## Déroulement
 
-* [set the stage](https://library.gv.com/sprint-week-set-the-stage-99f2f29ce0e7)
-* [Lundi - kick off](https://library.gv.com/sprint-week-monday-4bf0606b5c81) : partage de connaissance, compréhension du problème, choix de la cible de la semaine 
-* [Mardi - focus sur les solutions](https://library.gv.com/sprint-week-tuesday-d22b30f905c3) : inspirations de solutions existantes, premières ébauches
-* [Mercredi - focus sur une solution](https://library.gv.com/sprint-week-wednesday-900fe3f2c26e) : choix du croquis et story board
-* [Jeudi - prototypage](https://library.gv.com/sprint-week-thursday-df8d7c8c0555)
-* [Vendredi - tests](https://library.gv.com/sprint-week-friday-7f66b4194137)
+* [Lundi - comprendre](https://library.gv.com/sprint-week-monday-4bf0606b5c81) : partage de connaissance, compréhension du problème, choix de la cible de la semaine 
+* [Mardi - ébaucher ](https://library.gv.com/sprint-week-tuesday-d22b30f905c3): inspirations de solutions existantes, premières ébauches
+* [Mercredi - décider](https://library.gv.com/sprint-week-wednesday-900fe3f2c26e) : choix du croquis et story board
+* [Jeudi - prototyper](https://library.gv.com/sprint-week-thursday-df8d7c8c0555)
+* [Vendredi - valider](https://library.gv.com/sprint-week-friday-7f66b4194137)
 
 ## Variantes
 
