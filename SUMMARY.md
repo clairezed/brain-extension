@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Ice breakers](ice-breakers.md)
   * [Cadeaux et crochets](ice-breakers/cadeau-crochet.md)
+  * [Exemples en vrac](ice-breakers/exemples-en-vrac.md)
 * [Travail collaboratif](collaborative-work/README.md)
   * [Règles de base](collaborative-work/regles-de-base.md)
   * [Business Assumptions Exercise](collaborative-work/business-assumptions-exercise.md)
