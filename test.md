@@ -17,6 +17,7 @@
 
 * [comment faire](http://comment-faire.modernisation.gouv.fr/), guide de conception des services publics
 * [Outils et méthodes](http://latransfo.la27eregion.fr/outils-et-methodes/), la Transfo, par la 27e région
+* [Liste d'innovation Toolkits](https://airtable.com/shr5ihDeNVvqehAi6/tbl1tMziqEn94IdHw) \(airtable\) \([sélection pour l'étape de définition](https://airtable.com/shrO1EFgftLy5osxG/tbl1tMziqEn94IdHw) / prévision\)
 
 ### Construire une communauté
 
@@ -92,7 +93,7 @@ A framework to help you build meaningful communities.
 
 ### Bibliographie
 
-* **Designerly Ways of Knowing - Nigel Cross** : sur comment fonctionne la résolution de problème pour un designer, pourquoi ça peut s'adapter à différents domaines ou différentes personnes \(liens avec Design Sprint ?\) \(http://larossa.co/cross\_1982\_designerlywaysofknowing.pdf / http://oro.open.ac.uk/39253/8/Designerly%20Ways%20of%20Knowing%20DS.pdf / http://www.uio.no/studier/emner/matnat/ifi/INF5721/h07/Coursematerial/Presentations/ToneBratteteig.pdf \)
+* **Designerly Ways of Knowing - Nigel Cross** : sur comment fonctionne la résolution de problème pour un designer, pourquoi ça peut s'adapter à différents domaines ou différentes personnes \(liens avec Design Sprint ?\) \([http://larossa.co/cross\_1982\_designerlywaysofknowing.pdf](http://larossa.co/cross_1982_designerlywaysofknowing.pdf) / [http://oro.open.ac.uk/39253/8/Designerly Ways of Knowing DS.pdf](http://oro.open.ac.uk/39253/8/Designerly Ways of Knowing DS.pdf) / [http://www.uio.no/studier/emner/matnat/ifi/INF5721/h07/Coursematerial/Presentations/ToneBratteteig.pdf](http://www.uio.no/studier/emner/matnat/ifi/INF5721/h07/Coursematerial/Presentations/ToneBratteteig.pdf) \)
 
 
 
